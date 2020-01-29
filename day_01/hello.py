@@ -6,7 +6,7 @@ print(3 ** 4)            # exponential(**)
 print(3 % 4)             # modulus(%)
 print(3 // 4)
 
-print(type(10))          # Int
+print(type(132))          # Int
 print(type(9.8))        # Float
 print(type(3.14))      # float
 print(type(4 - 4j))    # complex num
