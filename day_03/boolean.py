@@ -47,7 +47,7 @@ pyth_len = "python"
 jarg_len = "jargon"
 print(len(pyth_len) != len(jarg_len))
 
-print('on' is pyth_len and 'on' is jarg_len)
+print('on' is pyth_len)
 
 print('jargon' in 'I hope this course is not full of jargon')
 

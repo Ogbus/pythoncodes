@@ -63,3 +63,5 @@ firstName = input("what is your first name? ")
 lastName = input("what is your last name? ")
 your_country = input("what country are you from? ")
 isAge = input("how old are you? ")
+
+print("Hello Sir, my name is", firstName, lastName, "I am from", your_country, "and I am", isAge, "years old.")
