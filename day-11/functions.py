@@ -125,5 +125,5 @@ def evens_and_odds(numbers):
             total_even = total_even + 1
         if number % 2 != 0:
             total_odd = total_odd + 1
-    print('The total numbers of evens are', total_even, '.', 'And the total numbers of odds are', total_odd)
+    print('The total numbers of evens are', total_even, '.', 'And the total numbers of odds are', total_odd) 
 print(evens_and_odds(100))
